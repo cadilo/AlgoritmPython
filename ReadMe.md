@@ -1085,7 +1085,6 @@ if __name__ == '__main__':
 
 ## Фигура А
 
-![[Pasted image 20240618210611.png]]
 
 ```python
 import bpy
@@ -1119,7 +1118,6 @@ if __name__ == '__main__':
 ```
 ## Фигура Б
 
-![[Pasted image 20240618210725.png]]
 
 ```python
 import bpy
@@ -1153,8 +1151,7 @@ if __name__ == '__main__':
 ```
 
 ## Фигура В
-![[Pasted image 20240618210820.png]]
-![[Pasted image 20240618210833.png]]
+
 
 ```python
 import bpy
