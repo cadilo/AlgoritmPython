@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "status": "[x]",
+      "name": "add new function",
+      "tags": "erwwer"
+    },
+    {
+      "status": "[ ]",
+      "name": "nwjeh",
+      "tags": "isuhw"
+    },
+    {
+      "status": "[x]",
+      "name": "vdlnfvljkber",
+      "tags": "werjnwjnfe"
+    },
+    {
+      "status": "[ ]",
+      "name": "new task",
+      "tags": "#new tag"
+    },
+    {
+      "status": "[ ]",
+      "name": "new task 1",
+      "tags": "#new tag"
+    },
+    {
+      "status": "[ ]",
+      "name": "new task 2",
+      "tags": "#new tag"
+    },
+    {
+      "status": "[ ]",
+      "name": "Сходить в магазин",
+      "tags": "#Сделать щас"
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{'IATA': 'AAA', 'ICAO': 'NTGA', 'Airport name': 'Anaa Airport', 'Location served': 'Anaa, Tuamotus, French Polynesia'}
+{'IATA': 'AAB', 'ICAO': 'YARY', 'Airport name': 'Arrabury Airport', 'Location served': 'Arrabury, Queensland, Australia'}
+{'IATA': 'AAC', 'ICAO': 'HEAR', 'Airport name': 'El Arish International Airport', 'Location served': 'El Arish, Egypt'}
+{'IATA': 'AAD', 'ICAO': 'HCAD', 'Airport name': 'Adado Airport', 'Location served': 'Adado (Cadaado), Galguduud, Somalia'}
+{'IATA': 'AAE', 'ICAO': 'DABB', 'Airport name': 'Rabah Bitat Airport (Les Salines Airport)', 'Location served': 'Annaba, Algeria'}
+{'IATA': 'AAF', 'ICAO': 'KAAF', 'Airport name': 'Apalachicola Regional Airport', 'Location served': 'Apalachicola, Florida, United States'}
+{'IATA': 'AAG', 'ICAO': 'SSYA', 'Airport name': 'Arapoti Airport', 'Location served': 'Arapoti, Paraná, Brazil'}
+{'IATA': 'AAH', 'ICAO': 'EDKA', 'Airport name': 'Merzbrück Airport', 'Location served': 'Aachen, North Rhine-Westphalia, Germany'}
+{'IATA': 'AAI', 'ICAO': 'SWRA', 'Airport name': 'Arraias Airport', 'Location served': 'Arraias, Tocantins, Brazil'}
+{'IATA': 'AAJ', 'ICAO': 'SMCA', 'Airport name': 'Cayana Airstrip', 'Location served': 'Awaradam, Suriname'}
+{'IATA': 'AAK', 'ICAO': 'NGUK', 'Airport name': 'Aranuka Airport', 'Location served': 'Aranuka, Kiribati'}
+{'IATA': 'AAL', 'ICAO': 'EKYT', 'Airport name': 'Aalborg Airport', 'Location served': 'Aalborg, Denmark'}
+{'IATA': 'AAM', 'ICAO': 'FAMD', 'Airport name': 'Mala Mala Airport', 'Location served': 'Mala Mala, South Africa'}
+{'IATA': 'AAN', 'ICAO': 'OMAL', 'Airport name': 'Al Ain International Airport', 'Location served': 'Al Ain, United Arab Emirates'}
+{'IATA': 'AAO', 'ICAO': 'SVAN', 'Airport name': 'Anaco Airport', 'Location served': 'Anaco, Venezuela'}
+{'IATA': 'AAP', 'ICAO': 'WALS', 'Airport name': 'Aji Pangeran Tumenggung Pranoto International Airport', 'Location served': 'Samarinda, East Kalimantan, Indonesia'}
+{'IATA': 'AAQ', 'ICAO': 'URKA', 'Airport name': 'Anapa Airport', 'Location served': 'Anapa, Krasnodar Krai, Russia'}
+{'IATA': 'AAR', 'ICAO': 'EKAH', 'Airport name': 'Aarhus Airport', 'Location served': 'Aarhus, Denmark'}
+{'IATA': 'AAS', 'ICAO': '', 'Airport name': 'Apalapsili Airport', 'Location served': 'Apalapsili, Indonesia'}
+{'IATA': 'AAT', 'ICAO': 'ZWAT', 'Airport name': 'Altay Airport', 'Location served': 'Altay, Xinjiang, China'}
+{'IATA': 'AAU', 'ICAO': 'NSAU', 'Airport name': 'Asau Airport', 'Location served': "Asau, Savai'i Island, Samoa"}
+{'IATA': 'AAV', 'ICAO': 'RPMA', 'Airport name': 'Allah Valley Airport', 'Location served': 'Surallah, Philippines'}
+{'IATA': 'AAX', 'ICAO': 'SBAX', 'Airport name': 'Araxá Airport', 'Location served': 'Araxá, Minas Gerais, Brazil'}
+{'IATA': 'AAY', 'ICAO': 'OYGD', 'Airport name': 'Al Ghaydah Airport', 'Location served': 'Al Ghaydah, Yemen'}
+{'IATA': 'AAZ', 'ICAO': 'MGQZ', 'Airport name': 'Quetzaltenango Airport', 'Location served': 'Quetzaltenango, Guatemala'}
+{'IATA': 'ABA', 'ICAO': 'UNAA', 'Airport name': 'Abakan International Airport', 'Location served': 'Abakan, Republic of Khakassia, Russia'}
+{'IATA': 'ABB', 'ICAO': 'DNAS', 'Airport name': 'Asaba International Airport', 'Location served': 'Asaba, Nigeria'}
+{'IATA': 'ABC', 'ICAO': 'LEAB', 'Airport name': 'Albacete Airport', 'Location served': 'Albacete, Castilla-La Mancha, Spain'}
+{'IATA': 'ABD', 'ICAO': 'OIAA', 'Airport name': 'Abadan International Airport', 'Location served': 'Abadan, Iran'}
+{'IATA': 'ABE', 'ICAO': 'KABE', 'Airport name': 'Lehigh Valley International Airport', 'Location served': 'Allentown, Pennsylvania, United States'}
+{'IATA': 'ABF', 'ICAO': 'NGAB', 'Airport name': 'Abaiang Atoll Airport', 'Location served': 'Abaiang, Kiribati'}
+{'IATA': 'ABG', 'ICAO': 'YABI', 'Airport name': 'Abingdon Airport', 'Location served': 'Abingdon Downs, Queensland, Australia'}
+{'IATA': 'ABH', 'ICAO': 'YAPH', 'Airport name': 'Alpha Airport', 'Location served': 'Alpha, Queensland, Australia'}
+{'IATA': 'ABI', 'ICAO': 'KABI', 'Airport name': 'Abilene Regional Airport', 'Location served': 'Abilene, Texas, United States'}
+{'IATA': 'ABJ', 'ICAO': 'DIAP', 'Airport name': "Port Bouet Airport (Felix Houphouet Boigny Int'l)", 'Location served': "Abidjan, Côte d'Ivoire"}
+{'IATA': 'ABK', 'ICAO': 'HAKD', 'Airport name': 'Kabri Dar Airport', 'Location served': 'Kebri Dahar, Ethiopia'}
+{'IATA': 'ABL', 'ICAO': 'PAFM', 'Airport name': 'Ambler Airport (FAA: AFM)', 'Location served': 'Ambler, Alaska, United States'}
+{'IATA': 'ABM', 'ICAO': 'YNPE', 'Airport name': 'Northern Peninsula Airport', 'Location served': 'Bamaga, Queensland, Australia'}
+{'IATA': 'ABN', 'ICAO': 'SMBN', 'Airport name': 'Albina Airstrip', 'Location served': 'Albina, Suriname'}
+{'IATA': 'ABO', 'ICAO': 'DIAO', 'Airport name': 'Aboisso Airport', 'Location served': "Aboisso, Côte d'Ivoire"}
+{'IATA': 'ABP', 'ICAO': '', 'Airport name': 'Atkamba Airport', 'Location served': 'Atkamba, Papua New Guinea'}
+{'IATA': 'ABQ', 'ICAO': 'KABQ', 'Airport name': 'Albuquerque International Sunport', 'Location served': 'Albuquerque, New Mexico, United States'}
+{'IATA': 'ABR', 'ICAO': 'KABR', 'Airport name': 'Aberdeen Regional Airport', 'Location served': 'Aberdeen, South Dakota, United States'}
+{'IATA': 'ABS', 'ICAO': 'HEBL', 'Airport name': 'Abu Simbel Airport', 'Location served': 'Abu Simbel, Egypt'}
+{'IATA': 'ABT', 'ICAO': 'OEBA', 'Airport name': 'Al-Baha Domestic Airport', 'Location served': 'Al Bahah, Saudi Arabia'}
+{'IATA': 'ABU', 'ICAO': 'WATA', 'Airport name': 'Haliwen Airport', 'Location served': 'Atambua, Indonesia'}
+{'IATA': 'ABV', 'ICAO': 'DNAA', 'Airport name': 'Nnamdi Azikiwe International Airport', 'Location served': 'Abuja, Nigeria'}
+{'IATA': 'ABW', 'ICAO': '', 'Airport name': 'Abau Airport', 'Location served': 'Abau, Papua New Guinea'}
+{'IATA': 'ABX', 'ICAO': 'YMAY', 'Airport name': 'Albury Airport', 'Location served': 'Albury, New South Wales, Australia'}
+{'IATA': 'ABY', 'ICAO': 'KABY', 'Airport name': 'Southwest Georgia Regional Airport', 'Location served': 'Albany, Georgia, United States'}
+{'IATA': 'ABZ', 'ICAO': 'EGPD', 'Airport name': 'Aberdeen Airport', 'Location served': 'Aberdeen, Scotland, United Kingdom'}
+{'IATA': 'ACA', 'ICAO': 'MMAA', 'Airport name': 'General Juan N. Álvarez International Airport', 'Location served': 'Acapulco, Guerrero, Mexico'}
+{'IATA': 'ACB', 'ICAO': 'KACB', 'Airport name': 'Antrim County Airport', 'Location served': 'Bellaire, Michigan, United States'}
+{'IATA': 'ACC', 'ICAO': 'DGAA', 'Airport name': 'Kotoka International Airport', 'Location served': 'Accra, Ghana'}
+{'IATA': 'ACD', 'ICAO': 'SKAD', 'Airport name': 'Alcides Fernández Airport', 'Location served': 'Acandí, Colombia'}
+{'IATA': 'ACE', 'ICAO': 'GCRR', 'Airport name': 'Lanzarote Airport', 'Location served': 'Lanzarote, Canary Islands, Spain'}
+{'IATA': 'ACH', 'ICAO': 'LSZR', 'Airport name': 'St. Gallen–Altenrhein Airport', 'Location served': 'Altenrhein, Switzerland'}
+{'IATA': 'ACI', 'ICAO': 'EGJA', 'Airport name': 'Alderney Airport', 'Location served': 'Alderney, Channel Islands, United Kingdom'}
+{'IATA': 'ACJ', 'ICAO': 'VCCA', 'Airport name': 'Anuradhapura Airport', 'Location served': 'Anuradhapura, Sri Lanka'}
+{'IATA': 'ACK', 'ICAO': 'KACK', 'Airport name': 'Nantucket Memorial Airport', 'Location served': 'Nantucket, Massachusetts, United States'}
+{'IATA': 'ACL', 'ICAO': '', 'Airport name': 'Aguaclara Airport', 'Location served': 'Aguaclara, Colombia'}
+{'IATA': 'ACM', 'ICAO': '', 'Airport name': 'Arica Airport', 'Location served': 'Arica, Colombia'}
+{'IATA': 'ACN', 'ICAO': 'MMCC', 'Airport name': 'Ciudad Acuña International Airport', 'Location served': 'Ciudad Acuña, Coahuila, Mexico'}
+{'IATA': 'ACP', 'ICAO': 'OITM', 'Airport name': 'Sahand Airport', 'Location served': 'Maragheh, Iran'}
+{'IATA': 'ACR', 'ICAO': 'SKAC', 'Airport name': 'Araracuara Airport', 'Location served': 'Araracuara, Colombia'}
+{'IATA': 'ACS', 'ICAO': 'UNKS', 'Airport name': 'Achinsk Airport', 'Location served': 'Achinsk, Krasnoyarsk Krai, Russia'}
+{'IATA': 'ACT', 'ICAO': 'KACT', 'Airport name': 'Waco Regional Airport', 'Location served': 'Waco, Texas, United States'}
+{'IATA': 'ACU', 'ICAO': '', 'Airport name': 'Achutupo Airport', 'Location served': 'Achutupo, Panama'}
+{'IATA': 'ACV', 'ICAO': 'KACV', 'Airport name': 'Arcata-Eureka Airport', 'Location served': 'Eureka / Arcata, California, United States'}
+{'IATA': 'ACX', 'ICAO': 'ZUYI', 'Airport name': 'Xingyi Wanfenglin Airport', 'Location served': 'Xingyi, Guizhou, China'}
+{'IATA': 'ACY', 'ICAO': 'KACY', 'Airport name': 'Atlantic City International Airport', 'Location served': 'Atlantic City, New Jersey, United States'}
+{'IATA': 'ACZ', 'ICAO': 'OIZB', 'Airport name': 'Zabol Airport', 'Location served': 'Zabol, Iran'}
+{'IATA': 'ADA', 'ICAO': 'LTAF', 'Airport name': 'Adana Şakirpaşa Airport', 'Location served': 'Adana, Turkey'}
+{'IATA': 'ADB', 'ICAO': 'LTBJ', 'Airport name': 'Adnan Menderes Airport', 'Location served': 'İzmir, Turkey'}
+{'IATA': 'ADC', 'ICAO': 'AYAN', 'Airport name': 'Andakombe Airport', 'Location served': 'Andakombe, Papua New Guinea'}
+{'IATA': 'ADD', 'ICAO': 'HAAB', 'Airport name': 'Bole International Airport', 'Location served': 'Addis Ababa, Ethiopia'}
+{'IATA': 'ADE', 'ICAO': 'OYAA', 'Airport name': 'Aden International Airport', 'Location served': 'Aden, Yemen'}
+{'IATA': 'ADF', 'ICAO': 'LTCP', 'Airport name': 'Adıyaman Airport', 'Location served': 'Adıyaman, Turkey'}
+{'IATA': 'ADG', 'ICAO': 'KADG', 'Airport name': 'Lenawee County Airport', 'Location served': 'Adrian, Michigan, United States'}
+{'IATA': 'ADH', 'ICAO': 'UEEA', 'Airport name': 'Aldan Airport', 'Location served': 'Aldan, Yakutia, Russia'}
+{'IATA': 'ADI', 'ICAO': 'FYAR', 'Airport name': 'Arandis Airport', 'Location served': 'Arandis, Namibia'}
+{'IATA': 'ADJ', 'ICAO': 'OJAM', 'Airport name': 'Amman Civil Airport (Marka International Airport)', 'Location served': 'Amman, Jordan'}
+{'IATA': 'ADK', 'ICAO': 'PADK', 'Airport name': 'Adak Airport', 'Location served': 'Adak Island, Alaska, United States'}
+{'IATA': 'ADL', 'ICAO': 'YPAD', 'Airport name': 'Adelaide Airport', 'Location served': 'Adelaide, South Australia, Australia'}
+{'IATA': 'ADM', 'ICAO': 'KADM', 'Airport name': 'Ardmore Municipal Airport', 'Location served': 'Ardmore, Oklahoma, United States'}
+{'IATA': 'ADN', 'ICAO': 'SKAN', 'Airport name': 'Andes Airport', 'Location served': 'Andes, Colombia'}
+{'IATA': 'ADO', 'ICAO': 'YAMK', 'Airport name': 'Andamooka Airport', 'Location served': 'Andamooka, South Australia, Australia'}
+{'IATA': 'ADP', 'ICAO': 'VCCG', 'Airport name': 'Ampara Airport', 'Location served': 'Ampara, Sri Lanka'}
+{'IATA': 'ADQ', 'ICAO': 'PADQ', 'Airport name': 'Kodiak Airport', 'Location served': 'Kodiak, Alaska, United States'}
+{'IATA': 'ADR', 'ICAO': 'KPHH', 'Airport name': 'Robert F. Swinnie Airport (FAA: PHH)', 'Location served': 'Andrews, South Carolina, United States'}
+{'IATA': 'ADS', 'ICAO': 'KADS', 'Airport name': 'Addison Airport', 'Location served': 'Dallas, Texas, United States'}
+{'IATA': 'ADT', 'ICAO': 'KADH', 'Airport name': 'Ada Municipal Airport (FAA: ADH)', 'Location served': 'Ada, Oklahoma, United States'}
+{'IATA': 'ADU', 'ICAO': 'OITL', 'Airport name': 'Ardabil Airport', 'Location served': 'Ardabil, Iran'}
+{'IATA': 'ADV', 'ICAO': '', 'Airport name': 'Ed Daein Airport', 'Location served': 'Ed Daein, Sudan'}
+{'IATA': 'ADW', 'ICAO': 'KADW', 'Airport name': 'Andrews Field (Andrews Air Force Base)', 'Location served': 'Camp Springs, Maryland, United States'}
+{'IATA': 'ADX', 'ICAO': 'EGQL', 'Airport name': 'Leuchars Station (formerly RAF Leuchars)', 'Location served': 'St Andrews, Scotland, United Kingdom'}
+{'IATA': 'ADY', 'ICAO': 'FAAL', 'Airport name': 'Alldays Airport', 'Location served': 'Alldays, South Africa'}
+{'IATA': 'ADZ', 'ICAO': 'SKSP', 'Airport name': 'Gustavo Rojas Pinilla International Airport', 'Location served': 'San Andres Island, Colombia'}
+{'IATA': 'AEA', 'ICAO': 'NGTB', 'Airport name': 'Abemama Atoll Airport', 'Location served': 'Abemama Atoll, Kiribati'}
+{'IATA': 'AEB', 'ICAO': 'ZGBS', 'Airport name': 'Baise Bama Airport', 'Location served': 'Baise, Guangxi, China'}
+{'IATA': 'AEE', 'ICAO': '', 'Airport name': 'Adareil Airport[1]', 'Location served': 'Adareil, South Sudan'}
+{'IATA': 'AEG', 'ICAO': 'WIME', 'Airport name': 'Aek Godang Airport', 'Location served': 'Padang Sidempuan, Indonesia'}
+{'IATA': 'AEH', 'ICAO': 'FTTC', 'Airport name': 'Abéché Airport', 'Location served': 'Abéché, Chad'}
+{'IATA': 'AEK', 'ICAO': 'AYAX', 'Airport name': 'Aseki Airport', 'Location served': 'Aseki, Papua New Guinea'}
+{'IATA': 'AEL', 'ICAO': 'KAEL', 'Airport name': 'Albert Lea Municipal Airport', 'Location served': 'Albert Lea, Minnesota, United States'}
+{'IATA': 'AEM', 'ICAO': 'UHTG', 'Airport name': 'Amgu Airport', 'Location served': 'Amgu, Primorsky Krai, Russia'}
+{'IATA': 'AEO', 'ICAO': 'GQNA', 'Airport name': 'Aioun el Atrouss Airport', 'Location served': 'Aioun el Atrouss, Mauritania'}
+{'IATA': 'AEP', 'ICAO': 'SABE', 'Airport name': 'Jorge Newbery Airpark', 'Location served': 'Buenos Aires, Argentina'}
+{'IATA': 'AEQ', 'ICAO': '', 'Airport name': 'Ar Horqin Airport', 'Location served': 'Ar Horqin Banner, China'}
+{'IATA': 'AER', 'ICAO': 'URSS', 'Airport name': 'Sochi International Airport', 'Location served': 'Sochi, Krasnodar Krai, Russia'}
+{'IATA': 'AES', 'ICAO': 'ENAL', 'Airport name': 'Ålesund Airport, Vigra', 'Location served': 'Ålesund, Norway'}
+{'IATA': 'AET', 'ICAO': 'PFAL', 'Airport name': 'Allakaket Airport (FAA: 6A8)', 'Location served': 'Allakaket, Alaska, United States'}
+{'IATA': 'AEU', 'ICAO': 'OIBA', 'Airport name': 'Abu Musa Airport[1]', 'Location served': 'Abu Musa Island, Iran'}
+{'IATA': 'AEX', 'ICAO': 'KAEX', 'Airport name': 'Alexandria International Airport', 'Location served': 'Alexandria, Louisiana, United States'}
+{'IATA': 'AEY', 'ICAO': 'BIAR', 'Airport name': 'Akureyri Airport', 'Location served': 'Akureyri, Iceland'}
+{'IATA': 'AFA', 'ICAO': 'SAMR', 'Airport name': 'San Rafael Airport', 'Location served': 'San Rafael, Mendoza, Argentina'}
+{'IATA': 'AFD', 'ICAO': 'FAPA', 'Airport name': 'Port Alfred Airport', 'Location served': 'Port Alfred, South Africa'}
+{'IATA': 'AFF', 'ICAO': 'KAFF', 'Airport name': 'United States Air Force Academy Airfield', 'Location served': 'Colorado Springs, Colorado, United States'}
+{'IATA': 'AFI', 'ICAO': 'SKAM', 'Airport name': 'Amalfi Airport', 'Location served': 'Amalfi, Colombia'}
+{'IATA': 'AFK', 'ICAO': '', 'Airport name': 'Kondavattavan Tank Seaplane Base[1]', 'Location served': 'Ampara, Sri Lanka'}
+{'IATA': 'AFL', 'ICAO': 'SBAT', 'Airport name': 'Alta Floresta Airport', 'Location served': 'Alta Floresta, Mato Grosso, Brazil'}
+{'IATA': 'AFN', 'ICAO': 'KAFN', 'Airport name': 'Jaffrey Airport–Silver Ranch', 'Location served': 'Jaffrey, New Hampshire, United States'}
+{'IATA': 'AFO', 'ICAO': 'KAFO', 'Airport name': 'Afton Municipal Airport', 'Location served': 'Afton, Wyoming, United States'}
+{'IATA': 'AFR', 'ICAO': 'AYAF', 'Airport name': 'Afore Airstrip', 'Location served': 'Afore, Papua New Guinea'}
+{'IATA': 'AFS', 'ICAO': 'UTSN', 'Airport name': 'Zarafshan Airport', 'Location served': 'Zarafshan, Uzbekistan'}
+{'IATA': 'AFT', 'ICAO': 'AGAF', 'Airport name': 'Afutara Airport', 'Location served': 'Afutara, Malaita, Solomon Islands'}
+{'IATA': 'AFW', 'ICAO': 'KAFW', 'Airport name': 'Fort Worth Alliance Airport', 'Location served': 'Fort Worth, Texas, United States'}
+{'IATA': 'AFY', 'ICAO': 'LTAH', 'Airport name': 'Afyon Airport', 'Location served': 'Afyon, Turkey'}
+{'IATA': 'AFZ', 'ICAO': 'OIMS', 'Airport name': 'Sabzevar Airport[1]', 'Location served': 'Sabzevar, Iran'}
+{'IATA': 'AGA', 'ICAO': 'GMAD', 'Airport name': 'Agadir–Al Massira Airport', 'Location served': 'Agadir, Morocco'}
+{'IATA': 'AGB', 'ICAO': 'EDMA', 'Airport name': 'Augsburg Airport', 'Location served': 'Augsburg, Bavaria, Germany'}
+{'IATA': 'AGC', 'ICAO': 'KAGC', 'Airport name': 'Allegheny County Airport', 'Location served': 'Pittsburgh, Pennsylvania, United States'}
+{'IATA': 'AGD', 'ICAO': 'WASG', 'Airport name': 'Anggi Airport', 'Location served': 'Anggi, Indonesia'}
+{'IATA': 'AGE', 'ICAO': 'EDWG', 'Airport name': 'Wangerooge Airfield', 'Location served': 'Wangerooge, Lower Saxony, Germany'}
+{'IATA': 'AGF', 'ICAO': 'LFBA', 'Airport name': 'Agen La Garenne Airport', 'Location served': 'Agen, Aquitaine, France'}
+{'IATA': 'AGG', 'ICAO': '', 'Airport name': 'Angoram Airport', 'Location served': 'Angoram, Papua New Guinea'}
+{'IATA': 'AGH', 'ICAO': 'ESTA', 'Airport name': 'Ängelholm–Helsingborg Airport (former ICAO: ESDB)', 'Location served': 'Ängelholm, Sweden'}
+{'IATA': 'AGI', 'ICAO': 'SMWA', 'Airport name': 'Wageningen Airstrip', 'Location served': 'Wageningen, Suriname'}
+{'IATA': 'AGJ', 'ICAO': 'RORA', 'Airport name': 'Aguni Airport', 'Location served': 'Aguni, Okinawa, Japan'}
+{'IATA': 'AGK', 'ICAO': '', 'Airport name': 'Kagua Airport', 'Location served': 'Kagua, Papua New Guinea'}
+{'IATA': 'AGL', 'ICAO': 'AYWG', 'Airport name': 'Wanigela Airport', 'Location served': 'Wanigela, Papua New Guinea'}
+{'IATA': 'AGN', 'ICAO': 'PAGN', 'Airport name': 'Angoon Seaplane Base', 'Location served': 'Angoon, Alaska, United States'}
+{'IATA': 'AGO', 'ICAO': 'KAGO', 'Airport name': 'Magnolia Municipal Airport', 'Location served': 'Magnolia, Arkansas, United States'}
+{'IATA': 'AGP', 'ICAO': 'LEMG', 'Airport name': 'Málaga Airport', 'Location served': 'Málaga, Andalusia, Spain'}
+{'IATA': 'AGQ', 'ICAO': 'LGAG', 'Airport name': 'Agrinion Airport', 'Location served': 'Agrinion, Greece'}
+{'IATA': 'AGR', 'ICAO': 'VIAG', 'Airport name': 'Agra Airport', 'Location served': 'Agra, Uttar Pradesh, India'}
+{'IATA': 'AGS', 'ICAO': 'KAGS', 'Airport name': 'Augusta Regional Airport at Bush Field', 'Location served': 'Augusta, Georgia, United States'}
+{'IATA': 'AGT', 'ICAO': 'SGES', 'Airport name': 'Guaraní International Airport', 'Location served': 'Ciudad del Este, Paraguay'}
+{'IATA': 'AGU', 'ICAO': 'MMAS', 'Airport name': 'Lic. Jesús Terán Peredo International Airport', 'Location served': 'Aguascalientes, Aguascalientes, Mexico'}
+{'IATA': 'AGV', 'ICAO': 'SVAC', 'Airport name': 'Oswaldo Guevara Mujica Airport', 'Location served': 'Acarigua, Venezuela'}
+{'IATA': 'AGW', 'ICAO': '', 'Airport name': 'Agnew Airport', 'Location served': 'Agnew, Queensland, Australia'}
+{'IATA': 'AGX', 'ICAO': 'VOAT', 'Airport name': 'Agatti Aerodrome', 'Location served': 'Agatti Island, Lakshadweep, India'}
+{'IATA': 'AGZ', 'ICAO': 'FAAG', 'Airport name': 'Aggeneys Airport', 'Location served': 'Aggeneys, South Africa'}
+{'IATA': 'AHB', 'ICAO': 'OEAB', 'Airport name': 'Abha Regional Airport', 'Location served': 'Abha, Saudi Arabia'}
+{'IATA': 'AHC', 'ICAO': 'KAHC', 'Airport name': 'Amedee Army Airfield', 'Location served': 'Herlong, California, United States'}
+{'IATA': 'AHD', 'ICAO': '', 'Airport name': 'Ardmore Downtown Executive Airport (FAA: 1F0)', 'Location served': 'Ardmore, Oklahoma, United States'}
+{'IATA': 'AHE', 'ICAO': 'NTHE', 'Airport name': 'Ahe Airport', 'Location served': 'Ahe, Tuamotus, French Polynesia'}
+{'IATA': 'AHF', 'ICAO': '', 'Airport name': 'Arapahoe Municipal Airport (FAA: 37V)', 'Location served': 'Arapahoe, Nebraska, United States'}
+{'IATA': 'AHH', 'ICAO': 'KAHH', 'Airport name': 'Amery Municipal Airport', 'Location served': 'Amery, Wisconsin, United States'}
+{'IATA': 'AHI', 'ICAO': 'WAPA', 'Airport name': 'Amahai Airport', 'Location served': 'Amahai, Indonesia'}
+{'IATA': 'AHJ', 'ICAO': 'ZUHY', 'Airport name': 'Hongyuan Airport', 'Location served': 'Hongyuan, Sichuan, China'}
+{'IATA': 'AHL', 'ICAO': 'SYAH', 'Airport name': 'Aishalton Airport', 'Location served': 'Aishalton, Guyana'}
+{'IATA': 'AHM', 'ICAO': '', 'Airport name': 'Ashland Municipal Airport[1] (FAA: S03)', 'Location served': 'Ashland, Oregon, United States'}
+{'IATA': 'AHN', 'ICAO': 'KAHN', 'Airport name': 'Athens Ben Epps Airport', 'Location served': 'Athens, Georgia, United States'}
+{'IATA': 'AHO', 'ICAO': 'LIEA', 'Airport name': 'Alghero-Fertilia Airport', 'Location served': 'Alghero, Sardinia, Italy'}
+{'IATA': 'AHS', 'ICAO': 'MHAH', 'Airport name': 'Ahuas Airport', 'Location served': 'Ahuas, Honduras'}
+{'IATA': 'AHU', 'ICAO': 'GMTA', 'Airport name': 'Cherif Al Idrissi Airport', 'Location served': 'Al Hoceima, Morocco'}
+{'IATA': 'AHW', 'ICAO': '', 'Airport name': 'Saih Rawl Airport[1]', 'Location served': 'Saih Rawl, Oman'}
+{'IATA': 'AHY', 'ICAO': '', 'Airport name': 'Ambatolahy Airport', 'Location served': 'Ambatolahy, Madagascar'}
+{'IATA': 'AHZ', 'ICAO': 'LFHU', 'Airport name': "Alpe d'Huez Airport", 'Location served': "Alpe d'Huez, Rhône-Alpes, France"}
+{'IATA': 'AIA', 'ICAO': 'KAIA', 'Airport name': 'Alliance Municipal Airport', 'Location served': 'Alliance, Nebraska, United States'}
+{'IATA': 'AIC', 'ICAO': '', 'Airport name': 'Ailinglaplap Airok Airport', 'Location served': 'Airok, Ailinglaplap Atoll, Marshall Islands'}
+{'IATA': 'AID', 'ICAO': 'KAID', 'Airport name': 'Anderson Municipal Airport (Darlington Field)', 'Location served': 'Anderson, Indiana, United States'}
+{'IATA': 'AIE', 'ICAO': 'AYAO', 'Airport name': 'Aiome Airport', 'Location served': 'Aiome, Papua New Guinea'}
+{'IATA': 'AIF', 'ICAO': 'SNAX', 'Airport name': 'Assis Airport (former ICAO: SBAS)', 'Location served': 'Assis, São Paulo, Brazil'}
+{'IATA': 'AIG', 'ICAO': 'FEFY', 'Airport name': 'Yalinga Airport', 'Location served': 'Yalinga, Central African Republic'}
+{'IATA': 'AIH', 'ICAO': 'AYAK', 'Airport name': 'Aiambak Airport', 'Location served': 'Aiambak, Papua New Guinea'}
+{'IATA': 'AII', 'ICAO': 'HDAS', 'Airport name': 'Ali-Sabieh Airport', 'Location served': 'Ali Sabieh, Djibouti'}
+{'IATA': 'AIK', 'ICAO': 'KAIK', 'Airport name': 'Aiken Municipal Airport', 'Location served': 'Aiken, South Carolina, United States'}
+{'IATA': 'AIL', 'ICAO': '', 'Airport name': 'Ailigandí Airport', 'Location served': 'Ailigandí, Panama'}
+{'IATA': 'AIM', 'ICAO': '', 'Airport name': 'Ailuk Airport', 'Location served': 'Ailuk Atoll, Marshall Islands'}
+{'IATA': 'AIN', 'ICAO': 'PAWI', 'Airport name': 'Wainwright Airport (FAA: AWI)', 'Location served': 'Fort Wainwright, Alaska, United States'}
+{'IATA': 'AIO', 'ICAO': 'KAIO', 'Airport name': 'Atlantic Municipal Airport', 'Location served': 'Atlantic, Iowa, United States'}
+{'IATA': 'AIP', 'ICAO': 'VIAX', 'Airport name': 'Adampur Airport', 'Location served': 'Jalandhar, Punjab, India'}
+{'IATA': 'AIR', 'ICAO': 'SSOU', 'Airport name': 'Aripuanã Airport', 'Location served': 'Aripuanã, Mato Grosso, Brazil'}
+{'IATA': 'AIS', 'ICAO': 'NGTR', 'Airport name': 'Arorae Island Airport', 'Location served': 'Arorae Island, Kiribati'}
+{'IATA': 'AIT', 'ICAO': 'NCAI', 'Airport name': 'Aitutaki Airport', 'Location served': 'Aitutaki, Cook Islands'}
+{'IATA': 'AIU', 'ICAO': 'NCAT', 'Airport name': 'Enua Airport', 'Location served': 'Atiu Island, Cook Islands'}
+{'IATA': 'AIV', 'ICAO': 'KAIV', 'Airport name': 'George Downer Airport', 'Location served': 'Aliceville, Alabama, United States'}
+{'IATA': 'AIW', 'ICAO': '', 'Airport name': 'Ai-Ais Airport', 'Location served': 'Ai-Ais, Namibia'}
+{'IATA': 'AIZ', 'ICAO': 'KAIZ', 'Airport name': 'Lee C. Fine Memorial Airport', 'Location served': 'Lake Ozark, Missouri, United States'}
+{'IATA': 'AJA', 'ICAO': 'LFKJ', 'Airport name': 'Ajaccio Napoleon Bonaparte Airport', 'Location served': 'Ajaccio, Corsica, France'}
+{'IATA': 'AJF', 'ICAO': 'OESK', 'Airport name': 'Al-Jawf Domestic Airport', 'Location served': 'Sakakah, Al Jawf, Saudi Arabia'}
+{'IATA': 'AJI', 'ICAO': 'LTCO', 'Airport name': 'Ağrı Airport', 'Location served': 'Ağrı, Turkey'}
+{'IATA': 'AJJ', 'ICAO': 'GQNJ', 'Airport name': 'Akjoujt Airport', 'Location served': 'Akjoujt, Mauritania'}
+{'IATA': 'AJK', 'ICAO': 'OIHR', 'Airport name': 'Arak Airport[1]', 'Location served': 'Arak, Iran'}
+{'IATA': 'AJL', 'ICAO': 'VELP[2]', 'Airport name': 'Lengpui Airport', 'Location served': 'Aizawl, Mizoram, India'}
+{'IATA': 'AJN', 'ICAO': 'FMCV', 'Airport name': 'Ouani Airport', 'Location served': 'Anjouan, Comoros'}
+{'IATA': 'AJR', 'ICAO': 'ESNX', 'Airport name': 'Arvidsjaur Airport', 'Location served': 'Arvidsjaur, Sweden'}
+{'IATA': 'AJS', 'ICAO': 'MX86', 'Airport name': 'Punta Abreojos Airstrip', 'Location served': 'Punta Abreojos, Baja California Sur, Mexico'}
+{'IATA': 'AJU', 'ICAO': 'SBAR', 'Airport name': 'Santa Maria Airport', 'Location served': 'Aracaju, Sergipe, Brazil'}
+{'IATA': 'AJY', 'ICAO': 'DRZA', 'Airport name': 'Mano Dayak International Airport', 'Location served': 'Agadez, Niger'}
+{'IATA': 'AKA', 'ICAO': 'ZLAK', 'Airport name': 'Ankang Wulipu Airport', 'Location served': 'Ankang, Shaanxi, China'}
+{'IATA': 'AKB', 'ICAO': 'PAAK', 'Airport name': 'Atka Airport (FAA: AKA)', 'Location served': 'Atka, Alaska, United States'}
+{'IATA': 'AKC', 'ICAO': 'KAKR', 'Airport name': 'Akron Fulton International Airport (FAA: AKR)', 'Location served': 'Akron, Ohio, United States'}
+{'IATA': 'AKD', 'ICAO': 'VAAK', 'Airport name': 'Akola Airport', 'Location served': 'Akola, Maharashtra, India'}
+{'IATA': 'AKE', 'ICAO': 'FOGA', 'Airport name': 'Akieni Airport', 'Location served': 'Akiéni, Gabon'}
+{'IATA': 'AKF', 'ICAO': 'HLKF', 'Airport name': 'Kufra Airport', 'Location served': 'Kufra, Libya'}
+{'IATA': 'AKG', 'ICAO': 'AYGU', 'Airport name': 'Anguganak Airport', 'Location served': 'Anguganak, Papua New Guinea'}
+{'IATA': 'AKH', 'ICAO': 'OEPS', 'Airport name': 'Prince Sultan Air Base', 'Location served': 'Al-Kharj, Saudi Arabia'}
+{'IATA': 'AKI', 'ICAO': 'PFAK', 'Airport name': 'Akiak Airport', 'Location served': 'Akiak, Alaska, United States'}
+{'IATA': 'AKJ', 'ICAO': 'RJEC', 'Airport name': 'Asahikawa Airport', 'Location served': 'Asahikawa, Hokkaido, Japan'}
+{'IATA': 'AKK', 'ICAO': 'PAKH', 'Airport name': 'Akhiok Airport', 'Location served': 'Akhiok, Alaska, United States'}
+{'IATA': 'AKL', 'ICAO': 'NZAA', 'Airport name': 'Auckland Airport', 'Location served': 'Auckland, New Zealand'}
+{'IATA': 'AKM', 'ICAO': '', 'Airport name': 'Zakouma Airport', 'Location served': 'Zakouma National Park, Chad'}
+{'IATA': 'AKN', 'ICAO': 'PAKN', 'Airport name': 'King Salmon Airport', 'Location served': 'King Salmon, Alaska, United States'}
+{'IATA': 'AKO', 'ICAO': 'KAKO', 'Airport name': 'Colorado Plains Regional Airport', 'Location served': 'Akron, Colorado, United States'}
+{'IATA': 'AKP', 'ICAO': 'PAKP', 'Airport name': 'Anaktuvuk Pass Airport', 'Location served': 'Anaktuvuk Pass, Alaska, United States'}
+{'IATA': 'AKQ', 'ICAO': 'WIAG', 'Airport name': 'Gunung Batin Airport', 'Location served': 'Astraksetra, Indonesia'}
+{'IATA': 'AKR', 'ICAO': 'DNAK', 'Airport name': 'Akure Airport', 'Location served': 'Akure, Nigeria'}
+{'IATA': 'AKS', 'ICAO': 'AGGA', 'Airport name': "Auki Gwaunaru'u Airport", 'Location served': 'Auki, Malaita, Solomon Islands'}
+{'IATA': 'AKT', 'ICAO': 'LCRA', 'Airport name': 'RAF Akrotiri', 'Location served': 'Akrotiri, United Kingdom'}
+{'IATA': 'AKU', 'ICAO': 'ZWAK', 'Airport name': 'Aksu Airport', 'Location served': 'Aksu, Xinjiang, China'}
+{'IATA': 'AKV', 'ICAO': 'CYKO', 'Airport name': 'Akulivik Airport', 'Location served': 'Akulivik, Quebec, Canada'}
+{'IATA': 'AKW', 'ICAO': 'OIAG', 'Airport name': 'Aghajari Airport[1]', 'Location served': 'Aghajari, Iran'}
+{'IATA': 'AKX', 'ICAO': 'UATT', 'Airport name': 'Aktobe Airport', 'Location served': 'Aktobe, Kazakhstan'}
+{'IATA': 'AKY', 'ICAO': 'VYSW', 'Airport name': 'Sittwe Airport', 'Location served': 'Sittwe, Myanmar'}
+{'IATA': 'ALA', 'ICAO': 'UAAA', 'Airport name': 'Almaty International Airport', 'Location served': 'Almaty, Kazakhstan'}
+{'IATA': 'ALB', 'ICAO': 'KALB', 'Airport name': 'Albany International Airport', 'Location served': 'Albany, New York, United States'}
+{'IATA': 'ALC', 'ICAO': 'LEAL', 'Airport name': 'Alicante–Elche Airport', 'Location served': 'Alicante, Valencia, Spain'}
+{'IATA': 'ALD', 'ICAO': 'SPAR', 'Airport name': 'Alerta Airport', 'Location served': 'Alerta, Peru'}
+{'IATA': 'ALE', 'ICAO': '', 'Airport name': 'Alpine–Casparis Municipal Airport (FAA: E38)', 'Location served': 'Alpine, Texas, United States'}
+{'IATA': 'ALF', 'ICAO': 'ENAT', 'Airport name': 'Alta Airport', 'Location served': 'Alta, Norway'}
+{'IATA': 'ALG', 'ICAO': 'DAAG', 'Airport name': 'Houari Boumediene Airport', 'Location served': 'Algiers, Algeria'}
+{'IATA': 'ALH', 'ICAO': 'YABA', 'Airport name': 'Albany Airport', 'Location served': 'Albany, Western Australia, Australia'}
+{'IATA': 'ALI', 'ICAO': 'KALI', 'Airport name': 'Alice International Airport', 'Location served': 'Alice, Texas, United States'}
+{'IATA': 'ALJ', 'ICAO': 'FAAB', 'Airport name': 'Alexander Bay Airport', 'Location served': 'Alexander Bay, South Africa'}
+{'IATA': 'ALK', 'ICAO': '', 'Airport name': 'Asella Airport', 'Location served': 'Asella, Ethiopia'}
+{'IATA': 'ALL', 'ICAO': 'LIMG', 'Airport name': 'Albenga Airport', 'Location served': 'Albenga, Liguria, Italy'}
+{'IATA': 'ALM', 'ICAO': 'KALM', 'Airport name': 'Alamogordo–White Sands Regional Airport', 'Location served': 'Alamogordo, New Mexico, United States'}
+{'IATA': 'ALN', 'ICAO': 'KALN', 'Airport name': 'St. Louis Regional Airport', 'Location served': 'Alton, Illinois, United States'}
+{'IATA': 'ALO', 'ICAO': 'KALO', 'Airport name': 'Waterloo Regional Airport', 'Location served': 'Waterloo, Iowa, United States'}
+{'IATA': 'ALP', 'ICAO': 'OSAP', 'Airport name': 'Aleppo International Airport', 'Location served': 'Aleppo, Syria'}
+{'IATA': 'ALQ', 'ICAO': 'SSLT', 'Airport name': 'Alegrete Airport', 'Location served': 'Alegrete, Rio Grande do Sul, Brazil'}
+{'IATA': 'ALR', 'ICAO': 'NZLX', 'Airport name': 'Alexandra Aerodrome', 'Location served': 'Alexandra, New Zealand'}
+{'IATA': 'ALS', 'ICAO': 'KALS', 'Airport name': 'San Luis Valley Regional Airport', 'Location served': 'Alamosa, Colorado, United States'}
+{'IATA': 'ALT', 'ICAO': '', 'Airport name': 'Alenquer Airport', 'Location served': 'Alenquer, Pará, Brazil'}
+{'IATA': 'ALU', 'ICAO': 'HCMA', 'Airport name': 'Alula Airport', 'Location served': 'Alula, Somalia'}
+{'IATA': 'ALW', 'ICAO': 'KALW', 'Airport name': 'Walla Walla Regional Airport', 'Location served': 'Walla Walla, Washington, United States'}
+{'IATA': 'ALX', 'ICAO': 'KALX', 'Airport name': 'Thomas C. Russell Field', 'Location served': 'Alexander City, Alabama, United States'}
+{'IATA': 'ALY', 'ICAO': 'HEAX', 'Airport name': 'El Nouzha Airport', 'Location served': 'Alexandria, Egypt'}
+{'IATA': 'ALZ', 'ICAO': '', 'Airport name': 'Alitak Seaplane Base', 'Location served': 'Lazy Bay, Alaska, United States'}
+{'IATA': 'AMA', 'ICAO': 'KAMA', 'Airport name': 'Rick Husband Amarillo International Airport', 'Location served': 'Amarillo, Texas, United States'}
+{'IATA': 'AMB', 'ICAO': 'FMNE', 'Airport name': 'Ambilobe Airport', 'Location served': 'Ambilobe, Madagascar'}
+{'IATA': 'AMC', 'ICAO': 'FTTN', 'Airport name': 'Am Timan Airport', 'Location served': 'Am Timan, Chad'}
+{'IATA': 'AMD', 'ICAO': 'VAAH', 'Airport name': 'Sardar Vallabhbhai Patel International Airport', 'Location served': 'Ahmedabad, Gujarat, India'}
+{'IATA': 'AME', 'ICAO': '', 'Airport name': 'Alto Molocue Airport', 'Location served': 'Alto Molocue, Mozambique'}
+{'IATA': 'AMF', 'ICAO': 'AYAA', 'Airport name': 'Ama Airport', 'Location served': 'Ama, Papua New Guinea'}
+{'IATA': 'AMG', 'ICAO': '', 'Airport name': 'Amboin Airport', 'Location served': 'Amboin, Papua New Guinea'}
+{'IATA': 'AMH', 'ICAO': 'HAAM', 'Airport name': 'Arba Minch Airport', 'Location served': 'Arba Minch, Ethiopia'}
+{'IATA': 'AMI', 'ICAO': 'WADA', 'Airport name': 'Selaparang Airport (closed 2011)', 'Location served': 'Mataram, Indonesia'}
+{'IATA': 'AMJ', 'ICAO': 'SNAR', 'Airport name': 'Almenara Airport', 'Location served': 'Almenara, Minas Gerais, Brazil'}
+{'IATA': 'AMK', 'ICAO': '', 'Airport name': 'Animas Air Park (FAA: 00C)', 'Location served': 'Durango, Colorado, United States'}
+{'IATA': 'AML', 'ICAO': '', 'Airport name': 'Puerto Armuelles Airport', 'Location served': 'Puerto Armuelles, Panama'}
+{'IATA': 'AMM', 'ICAO': 'OJAI', 'Airport name': 'Queen Alia International Airport', 'Location served': 'Amman, Jordan'}
+{'IATA': 'AMN', 'ICAO': 'KAMN', 'Airport name': 'Gratiot Community Airport', 'Location served': 'Alma, Michigan, United States'}
+{'IATA': 'AMO', 'ICAO': 'FTTU', 'Airport name': 'Mao Airport', 'Location served': 'Mao, Chad'}
+{'IATA': 'AMP', 'ICAO': 'FMSY', 'Airport name': 'Ampanihy Airport', 'Location served': 'Ampanihy, Madagascar'}
+{'IATA': 'AMQ', 'ICAO': 'WAPP', 'Airport name': 'Pattimura Airport', 'Location served': 'Ambon, Indonesia'}
+{'IATA': 'AMS', 'ICAO': 'EHAM', 'Airport name': 'Amsterdam Airport Schiphol', 'Location served': 'Amsterdam, Netherlands'}
+{'IATA': 'AMT', 'ICAO': 'YAMT', 'Airport name': 'Amata Airport', 'Location served': 'Amata, South Australia, Australia'}
+{'IATA': 'AMU', 'ICAO': 'AYAM', 'Airport name': 'Amanab Airport', 'Location served': 'Amanab, Papua New Guinea'}
+{'IATA': 'AMV', 'ICAO': 'ULDD', 'Airport name': 'Amderma Airport', 'Location served': 'Amderma, Nenets Autonomous Okrug, Russia'}
+{'IATA': 'AMW', 'ICAO': 'KAMW', 'Airport name': 'Ames Municipal Airport', 'Location served': 'Ames, Iowa, United States'}
+{'IATA': 'AMX', 'ICAO': '', 'Airport name': 'Ammaroo Airport', 'Location served': 'Ammaroo, Northern Territory, Australia'}
+{'IATA': 'AMY', 'ICAO': '', 'Airport name': 'Ambatomainty Airport', 'Location served': 'Ambatomainty, Madagascar'}
+{'IATA': 'AMZ', 'ICAO': 'NZAR', 'Airport name': 'Ardmore Airport', 'Location served': 'Ardmore, New Zealand'}
+{'IATA': 'ANA', 'ICAO': 'DNAB', 'Airport name': 'Angama Mara Airport', 'Location served': 'Angama Mara, Narok County, Kenya'}
+{'IATA': 'ANB', 'ICAO': 'KANB', 'Airport name': 'Anniston Regional Airport', 'Location served': 'Anniston, Alabama, United States'}
+{'IATA': 'ANC', 'ICAO': 'PANC', 'Airport name': 'Ted Stevens Anchorage International Airport', 'Location served': 'Anchorage, Alaska, United States'}
+{'IATA': 'AND', 'ICAO': 'KAND', 'Airport name': 'Anderson Regional Airport', 'Location served': 'Anderson, South Carolina, United States'}
+{'IATA': 'ANE', 'ICAO': 'LFJR', 'Airport name': 'Angers – Loire Airport', 'Location served': 'Angers, Pays de la Loire, France'}
+{'IATA': 'ANF', 'ICAO': 'SCFA', 'Airport name': 'Cerro Moreno International Airport', 'Location served': 'Antofagasta, Chile'}
+{'IATA': 'ANG', 'ICAO': 'LFBU', 'Airport name': 'Angoulême – Cognac International Airport', 'Location served': 'Angoulême, Poitou-Charentes, France'}
+{'IATA': 'ANI', 'ICAO': 'PANI', 'Airport name': 'Aniak Airport', 'Location served': 'Aniak, Alaska, United States'}
+{'IATA': 'ANJ', 'ICAO': 'FCBZ', 'Airport name': 'Zanaga Airport', 'Location served': 'Zanaga, Republic of the Congo'}
+{'IATA': 'ANK', 'ICAO': 'LTAD', 'Airport name': 'Etimesgut Air Base', 'Location served': 'Ankara, Turkey'}
+{'IATA': 'ANL', 'ICAO': '', 'Airport name': 'Andulo Airport', 'Location served': 'Andulo, Angola'}
+{'IATA': 'ANM', 'ICAO': 'FMNH', 'Airport name': 'Antsirabato Airport', 'Location served': 'Antalaha, Madagascar'}
+{'IATA': 'ANN', 'ICAO': 'PANT', 'Airport name': 'Annette Island Airport', 'Location served': 'Annette Island, Alaska, United States'}
+{'IATA': 'ANO', 'ICAO': 'FQAG', 'Airport name': 'Angoche Airport', 'Location served': 'Angoche, Mozambique'}
+{'IATA': 'ANP', 'ICAO': 'KANP', 'Airport name': 'Lee Airport', 'Location served': 'Annapolis, Maryland, United States'}
+{'IATA': 'ANQ', 'ICAO': 'KANQ', 'Airport name': 'Tri-State Steuben County Airport', 'Location served': 'Angola, Indiana, United States'}
+{'IATA': 'ANR', 'ICAO': 'EBAW', 'Airport name': 'Antwerp International Airport', 'Location served': 'Antwerp, Belgium'}
+{'IATA': 'ANS', 'ICAO': 'SPHY', 'Airport name': 'Andahuaylas Airport', 'Location served': 'Andahuaylas, Peru'}
+{'IATA': 'ANU', 'ICAO': 'TAPA', 'Airport name': 'V. C. Bird International Airport', 'Location served': 'Antigua, Antigua and Barbuda'}
+{'IATA': 'ANV', 'ICAO': 'PANV', 'Airport name': 'Anvik Airport', 'Location served': 'Anvik, Alaska, United States'}
+{'IATA': 'ANW', 'ICAO': 'KANW', 'Airport name': 'Ainsworth Regional Airport', 'Location served': 'Ainsworth, Nebraska, United States'}
+{'IATA': 'ANX', 'ICAO': 'ENAN', 'Airport name': 'Andøya Airport, Andenes', 'Location served': 'Andenes, Norway'}
+{'IATA': 'ANY', 'ICAO': 'KANY', 'Airport name': 'Anthony Municipal Airport', 'Location served': 'Anthony, Kansas, United States'}
+{'IATA': 'ANZ', 'ICAO': '', 'Airport name': 'Angus Downs Airport', 'Location served': 'Angus Downs, Northern Territory, Australia'}
+{'IATA': 'AOA', 'ICAO': '', 'Airport name': 'Aroa Airport', 'Location served': 'Aroa, Papua New Guinea'}
+{'IATA': 'AOB', 'ICAO': '', 'Airport name': 'Annanberg Airport', 'Location served': 'Annanberg, Papua New Guinea'}
+{'IATA': 'AOC', 'ICAO': 'EDAC', 'Airport name': 'Leipzig–Altenburg Airport', 'Location served': 'Altenburg, Thuringia, Germany'}
+{'IATA': 'AOD', 'ICAO': '', 'Airport name': 'Abou-Deïa Airport', 'Location served': 'Abou-Deïa, Chad'}
+{'IATA': 'AOE', 'ICAO': 'LTBY', 'Airport name': 'Anadolu Airport', 'Location served': 'Eskişehir, Turkey'}
+{'IATA': 'AOG', 'ICAO': 'ZYAS', 'Airport name': "Anshan Teng'ao Airport", 'Location served': 'Anshan, Liaoning, China'}
+{'IATA': 'AOH', 'ICAO': 'KAOH', 'Airport name': 'Lima Allen County Airport', 'Location served': 'Lima, Ohio, United States'}
+{'IATA': 'AOI', 'ICAO': 'LIPY', 'Airport name': 'Ancona Falconara Airport', 'Location served': 'Ancona, Marche, Italy'}
+{'IATA': 'AOJ', 'ICAO': 'RJSA', 'Airport name': 'Aomori Airport', 'Location served': 'Aomori, Honshu, Japan'}
+{'IATA': 'AOK', 'ICAO': 'LGKP', 'Airport name': 'Karpathos Island National Airport', 'Location served': 'Karpathos, Greece'}
+{'IATA': 'AOL', 'ICAO': 'SARL', 'Airport name': 'Paso de los Libres Airport', 'Location served': 'Paso de los Libres, Corrientes, Argentina'}
+{'IATA': 'AOM', 'ICAO': '', 'Airport name': 'Adam Airport[1]', 'Location served': 'Adam, Oman'}
+{'IATA': 'AON', 'ICAO': '', 'Airport name': 'Arona Airport', 'Location served': 'Arona, Papua New Guinea'}
+{'IATA': 'AOO', 'ICAO': 'KAOO', 'Airport name': 'Altoona–Blair County Airport', 'Location served': 'Altoona, Pennsylvania, United States'}
+{'IATA': 'AOP', 'ICAO': '', 'Airport name': 'Alférez FAP Alfredo Vladimir Sara Bauer Airport', 'Location served': 'Andoas, Peru'}
+{'IATA': 'AOR', 'ICAO': 'WMKA', 'Airport name': 'Sultan Abdul Halim Airport', 'Location served': 'Alor Setar, Kedah, Malaysia'}
+{'IATA': 'AOS', 'ICAO': '', 'Airport name': 'Amook Bay Seaplane Base (FAA: AK81)', 'Location served': 'Amook Bay, Alaska, United States'}
+{'IATA': 'AOT', 'ICAO': 'LIMW', 'Airport name': 'Aosta Valley Airport', 'Location served': 'Aosta, Aosta Valley, Italy'}
+{'IATA': 'AOU', 'ICAO': 'VLAP', 'Airport name': 'Attapeu International Airport', 'Location served': 'Attapeu, Laos'}
+{'IATA': 'APA', 'ICAO': 'KAPA', 'Airport name': 'Centennial Airport', 'Location served': 'Denver, Colorado, United States'}
+{'IATA': 'APB', 'ICAO': 'SLAP', 'Airport name': 'Apolo Airport', 'Location served': 'Apolo, Bolivia'}
+{'IATA': 'APC', 'ICAO': 'KAPC', 'Airport name': 'Napa County Airport', 'Location served': 'Napa, California, United States'}
+{'IATA': 'APF', 'ICAO': 'KAPF', 'Airport name': 'Naples Municipal Airport', 'Location served': 'Naples, Florida, United States'}
+{'IATA': 'APG', 'ICAO': 'KAPG', 'Airport name': 'Phillips Army Airfield', 'Location served': 'Aberdeen Proving Ground, Maryland, United States'}
+{'IATA': 'APH', 'ICAO': 'KAPH', 'Airport name': 'A.P. Hill Army Airfield', 'Location served': 'Fort Walker, Virginia, United States'}
+{'IATA': 'API', 'ICAO': 'SKAP', 'Airport name': 'Captain Luis F. Gómez Niño Air Base', 'Location served': 'Apiay, Colombia'}
+{'IATA': 'APK', 'ICAO': 'NTGD', 'Airport name': 'Apataki Airport', 'Location served': 'Apataki, Tuamotus, French Polynesia'}
+{'IATA': 'APL', 'ICAO': 'FQNP', 'Airport name': 'Nampula Airport', 'Location served': 'Nampula, Mozambique'}
+{'IATA': 'APN', 'ICAO': 'KAPN', 'Airport name': 'Alpena County Regional Airport', 'Location served': 'Alpena, Michigan, United States'}
+{'IATA': 'APO', 'ICAO': 'SKLC', 'Airport name': 'Antonio Roldán Betancourt Airport', 'Location served': 'Apartadó, Colombia'}
+{'IATA': 'APP', 'ICAO': '', 'Airport name': 'Asapa Airport', 'Location served': 'Asapa, Papua New Guinea'}
+{'IATA': 'APQ', 'ICAO': 'SNAL', 'Airport name': 'Arapiraca Airport', 'Location served': 'Arapiraca, Alagoas, Brazil'}
+{'IATA': 'APR', 'ICAO': 'AYPE', 'Airport name': 'April River Airport', 'Location served': 'April River, Papua New Guinea'}
+{'IATA': 'APS', 'ICAO': 'SWNS', 'Airport name': 'Anápolis Airport', 'Location served': 'Anápolis, Goiás, Brazil'}
+{'IATA': 'APT', 'ICAO': 'KAPT', 'Airport name': 'Marion County Airport (Brown Field)', 'Location served': 'Jasper, Tennessee, United States'}
+{'IATA': 'APU', 'ICAO': 'SSAP', 'Airport name': 'Apucarana Airport', 'Location served': 'Apucarana, Paraná, Brazil'}
+{'IATA': 'APV', 'ICAO': 'KAPV', 'Airport name': 'Apple Valley Airport', 'Location served': 'Apple Valley, California, United States'}
+{'IATA': 'APW', 'ICAO': 'NSFA', 'Airport name': 'Faleolo International Airport', 'Location served': 'Apia, Upolu Island, Samoa'}
+{'IATA': 'APX', 'ICAO': 'SSOG', 'Airport name': 'Arapongas Airport', 'Location served': 'Arapongas, Paraná, Brazil'}
+{'IATA': 'APY', 'ICAO': 'SNAI', 'Airport name': 'Alto Parnaíba Airport', 'Location served': 'Alto Parnaíba, Maranhão, Brazil'}
+{'IATA': 'APZ', 'ICAO': 'SAHZ', 'Airport name': 'Zapala Airport', 'Location served': 'Zapala, Neuquén, Argentina'}
+{'IATA': 'AQA', 'ICAO': 'SBAQ', 'Airport name': 'Araraquara Airport', 'Location served': 'Araraquara, São Paulo, Brazil'}
+{'IATA': 'AQB', 'ICAO': 'MGQC', 'Airport name': 'Quiché Airport', 'Location served': 'Quiché, Guatemala'}
+{'IATA': 'AQG', 'ICAO': 'ZSAQ', 'Airport name': 'Anqing Tianzhushan Airport', 'Location served': 'Anqing, Anhui, China'}
+{'IATA': 'AQI', 'ICAO': 'OEPA', 'Airport name': 'Al Qaisumah/Hafr Al Batin Airport', 'Location served': 'Qaisumah / Hafar al-Batin, Saudi Arabia'}
+{'IATA': 'AQJ', 'ICAO': 'OJAQ', 'Airport name': 'King Hussein International Airport', 'Location served': 'Aqaba, Jordan'}
+{'IATA': 'AQM', 'ICAO': '', 'Airport name': 'Ariquemes Airport', 'Location served': 'Ariquemes, Rondônia, Brazil'}
+{'IATA': 'AQP', 'ICAO': 'SPQU', 'Airport name': 'Rodríguez Ballón International Airport', 'Location served': 'Arequipa, Peru'}
+{'IATA': 'AQS', 'ICAO': '', 'Airport name': 'Saqani Airport', 'Location served': 'Saqani, Fiji'}
+{'IATA': 'AQY', 'ICAO': '', 'Airport name': 'Girdwood Airport[1]', 'Location served': 'Girdwood, Alaska, United States'}
+{'IATA': 'ARA', 'ICAO': 'KARA', 'Airport name': 'Acadiana Regional Airport', 'Location served': 'New Iberia, Louisiana, United States'}
+{'IATA': 'ARB', 'ICAO': 'KARB', 'Airport name': 'Ann Arbor Municipal Airport', 'Location served': 'Ann Arbor, Michigan, United States'}
+{'IATA': 'ARC', 'ICAO': 'PARC', 'Airport name': 'Arctic Village Airport', 'Location served': 'Arctic Village, Alaska, United States'}
+{'IATA': 'ARD', 'ICAO': 'WATM', 'Airport name': 'Alor Island Airport', 'Location served': 'Alor Island, Indonesia'}
+{'IATA': 'ARE', 'ICAO': 'TJAB', 'Airport name': 'Antonio (Nery) Juarbe Pol Airport (FAA: ABO)', 'Location served': 'Arecibo, Puerto Rico, United States'}
+{'IATA': 'ARF', 'ICAO': '', 'Airport name': 'Acaricuara Airport', 'Location served': 'Acaricuara, Colombia'}
+{'IATA': 'ARG', 'ICAO': 'KARG', 'Airport name': 'Walnut Ridge Regional Airport', 'Location served': 'Walnut Ridge, Arkansas, United States'}
+{'IATA': 'ARH', 'ICAO': 'ULAA', 'Airport name': 'Talagi Airport', 'Location served': 'Arkhangelsk, Arkhangelsk Oblast, Russia'}
+{'IATA': 'ARI', 'ICAO': 'SCAR', 'Airport name': 'Chacalluta International Airport', 'Location served': 'Arica, Chile'}
+{'IATA': 'ARJ', 'ICAO': 'WAJA', 'Airport name': 'Arso Airport', 'Location served': 'Arso, Indonesia'}
+{'IATA': 'ARK', 'ICAO': 'HTAR', 'Airport name': 'Arusha Airport', 'Location served': 'Arusha, Tanzania'}
+{'IATA': 'ARL', 'ICAO': 'DFER', 'Airport name': 'Arly Airport', 'Location served': 'Arly, Burkina Faso'}
+{'IATA': 'ARM', 'ICAO': 'YARM', 'Airport name': 'Armidale Airport', 'Location served': 'Armidale, New South Wales, Australia'}
+{'IATA': 'ARN', 'ICAO': 'ESSA', 'Airport name': 'Stockholm Arlanda Airport', 'Location served': 'Stockholm, Sweden'}
+{'IATA': 'ARO', 'ICAO': '', 'Airport name': 'Arboletes Airport', 'Location served': 'Arboletes, Colombia'}
+{'IATA': 'ARP', 'ICAO': '', 'Airport name': 'Aragip Airport', 'Location served': 'Aragip, Papua New Guinea'}
+{'IATA': 'ARQ', 'ICAO': 'SKAT[3]', 'Airport name': 'El Troncal Airport', 'Location served': 'Arauquita, Colombia'}
+{'IATA': 'ARR', 'ICAO': 'SAVR', 'Airport name': 'Alto Río Senguer Airport', 'Location served': 'Alto Río Senguer, Chubut, Argentina'}
+{'IATA': 'ARS', 'ICAO': 'SWEC', 'Airport name': 'Aragarças Airport', 'Location served': 'Aragarças, Goiás, Brazil'}
+{'IATA': 'ART', 'ICAO': 'KART', 'Airport name': 'Watertown International Airport', 'Location served': 'Watertown, New York, United States'}
+{'IATA': 'ARU', 'ICAO': 'SBAU', 'Airport name': 'Araçatuba Airport', 'Location served': 'Araçatuba, São Paulo, Brazil'}
+{'IATA': 'ARV', 'ICAO': 'KARV', 'Airport name': 'Lakeland Airport (Noble F. Lee Memorial Field)', 'Location served': 'Minocqua / Woodruff, Wisconsin, United States'}
+{'IATA': 'ARW', 'ICAO': 'LRAR', 'Airport name': 'Arad International Airport', 'Location served': 'Arad, Romania'}
+{'IATA': 'ARX', 'ICAO': 'SBAC', 'Airport name': 'Aracati Airport', 'Location served': 'Aracati, Canoa Quebrada, Brazil'}
+{'IATA': 'ARY', 'ICAO': 'YARA', 'Airport name': 'Ararat Airport', 'Location served': 'Ararat, Victoria, Australia'}
+{'IATA': 'ARZ', 'ICAO': 'FNZE', 'Airport name': "N'zeto Airport", 'Location served': "N'zeto, Angola"}
+{'IATA': 'ASA', 'ICAO': 'HHSB', 'Airport name': 'Assab International Airport', 'Location served': 'Assab, Eritrea'}
+{'IATA': 'ASB', 'ICAO': 'UTAA', 'Airport name': 'Ashgabat International Airport', 'Location served': 'Ashgabat, Turkmenistan'}
+{'IATA': 'ASC', 'ICAO': 'SLAS', 'Airport name': 'Ascención de Guarayos Airport', 'Location served': 'Ascención de Guarayos, Bolivia'}
+{'IATA': 'ASD', 'ICAO': 'MYAF', 'Airport name': 'Andros Town International Airport', 'Location served': 'Andros Town, Andros Island, Bahamas'}
+{'IATA': 'ASE', 'ICAO': 'KASE', 'Airport name': 'Aspen–Pitkin County Airport (Sardy Field)', 'Location served': 'Aspen, Colorado, United States'}
+{'IATA': 'ASF', 'ICAO': 'URWA', 'Airport name': 'Narimanovo Airport', 'Location served': 'Astrakhan, Astrakhan Oblast, Russia'}
+{'IATA': 'ASG', 'ICAO': 'NZAS', 'Airport name': 'Ashburton Aerodrome', 'Location served': 'Ashburton, New Zealand'}
+{'IATA': 'ASH', 'ICAO': 'KASH', 'Airport name': 'Nashua Airport (Boire Field)', 'Location served': 'Nashua, New Hampshire, United States'}
+{'IATA': 'ASI', 'ICAO': 'FHAW', 'Airport name': 'RAF Ascension Island (Wideawake Field)', 'Location served': 'Ascension Island, British Overseas Territoryof Saint Helena, Ascension and Tristan da Cunha'}
+{'IATA': 'ASJ', 'ICAO': 'RJKA', 'Airport name': 'Amami Airport', 'Location served': 'Amami, Satsunan Islands, Japan'}
+{'IATA': 'ASK', 'ICAO': 'DIYO', 'Airport name': 'Yamoussoukro Airport', 'Location served': "Yamoussoukro, Côte d'Ivoire"}
+{'IATA': 'ASL', 'ICAO': 'KASL', 'Airport name': 'Harrison County Airport', 'Location served': 'Marshall, Texas, United States'}
+{'IATA': 'ASM', 'ICAO': 'HHAS', 'Airport name': 'Asmara International Airport', 'Location served': 'Asmara, Eritrea'}
+{'IATA': 'ASN', 'ICAO': 'KASN', 'Airport name': 'Talladega Municipal Airport', 'Location served': 'Talladega, Alabama, United States'}
+{'IATA': 'ASO', 'ICAO': 'HASO', 'Airport name': 'Asosa Airport', 'Location served': 'Asosa, Ethiopia'}
+{'IATA': 'ASP', 'ICAO': 'YBAS', 'Airport name': 'Alice Springs Airport', 'Location served': 'Alice Springs, Northern Territory, Australia'}
+{'IATA': 'ASQ', 'ICAO': '', 'Airport name': 'Austin Airport (FAA: 9U3)', 'Location served': 'Austin, Nevada, United States'}
+{'IATA': 'ASR', 'ICAO': 'LTAU', 'Airport name': 'Erkilet International Airport', 'Location served': 'Kayseri, Turkey'}
+{'IATA': 'AST', 'ICAO': 'KAST', 'Airport name': 'Astoria Regional Airport', 'Location served': 'Astoria, Oregon, United States'}
+{'IATA': 'ASU', 'ICAO': 'SGAS', 'Airport name': 'Silvio Pettirossi International Airport', 'Location served': 'Asunción, Paraguay'}
+{'IATA': 'ASV', 'ICAO': 'HKAM', 'Airport name': 'Amboseli Airport', 'Location served': 'Amboseli, Kenya'}
+{'IATA': 'ASW', 'ICAO': 'HESN', 'Airport name': 'Aswan International Airport', 'Location served': 'Aswan, Egypt'}
+{'IATA': 'ASX', 'ICAO': 'KASX', 'Airport name': 'John F. Kennedy Memorial Airport', 'Location served': 'Ashland, Wisconsin, United States'}
+{'IATA': 'ASY', 'ICAO': 'KASY', 'Airport name': 'Ashley Municipal Airport', 'Location served': 'Ashley, North Dakota, United States'}
+{'IATA': 'ASZ', 'ICAO': '', 'Airport name': 'Asirim Airport', 'Location served': 'Asirim, Papua New Guinea'}
+{'IATA': 'ATA', 'ICAO': 'SPHZ', 'Airport name': 'Comandante FAP Germán Arias Graziani Airport', 'Location served': 'Huaraz, Peru'}
+{'IATA': 'ATB', 'ICAO': 'HSAT', 'Airport name': 'Atbara Airport', 'Location served': 'Atbara, Sudan'}
+{'IATA': 'ATC', 'ICAO': 'MYCA', 'Airport name': "Arthur's Town Airport", 'Location served': "Arthur's Town, Cat Island, Bahamas"}
+{'IATA': 'ATD', 'ICAO': 'AGAT', 'Airport name': 'Uru Harbour Airport', 'Location served': 'Atoifi, Malaita, Solomon Islands'}
+{'IATA': 'ATE', 'ICAO': '', 'Airport name': 'Antlers Municipal Airport (FAA: 80F)', 'Location served': 'Antlers, Oklahoma, United States'}
+{'IATA': 'ATF', 'ICAO': 'SEAM', 'Airport name': 'Chachoan Airport', 'Location served': 'Ambato, Ecuador'}
+{'IATA': 'ATG', 'ICAO': '', 'Airport name': 'PAF Base Minhas', 'Location served': 'Attock, Pakistan'}
+{'IATA': 'ATH', 'ICAO': 'LGAV', 'Airport name': 'Athens International Airport (Eleftherios Venizelos Airport)', 'Location served': 'Athens, Greece'}
+{'IATA': 'ATI', 'ICAO': 'SUAG', 'Airport name': 'Artigas International Airport', 'Location served': 'Artigas, Uruguay'}
+{'IATA': 'ATJ', 'ICAO': 'FMME', 'Airport name': 'Antsirabe Airport', 'Location served': 'Antsirabe, Madagascar'}
+{'IATA': 'ATK', 'ICAO': 'PATQ', 'Airport name': 'Atqasuk Edward Burnell Sr. Memorial Airport', 'Location served': 'Atqasuk, Alaska, United States'}
+{'IATA': 'ATL', 'ICAO': 'KATL', 'Airport name': 'Hartsfield–Jackson Atlanta International Airport', 'Location served': 'Atlanta, Georgia, United States'}
+{'IATA': 'ATM', 'ICAO': 'SBHT', 'Airport name': 'Altamira Airport', 'Location served': 'Altamira, Pará, Brazil'}
+{'IATA': 'ATN', 'ICAO': 'AYNX', 'Airport name': 'Namatanai Airport', 'Location served': 'Namatanai, Papua New Guinea'}
+{'IATA': 'ATO', 'ICAO': 'KUNI', 'Airport name': 'Ohio University Airport (Snyder Field) (FAA: UNI)', 'Location served': 'Athens / Albany, Ohio, United States'}
+{'IATA': 'ATP', 'ICAO': 'AYAI', 'Airport name': 'Aitape Airstrip', 'Location served': 'Aitape, Papua New Guinea'}
+{'IATA': 'ATQ', 'ICAO': 'VIAR', 'Airport name': 'Sri Guru Ram Dass Jee International Airport', 'Location served': 'Amritsar, Punjab, India'}
+{'IATA': 'ATR', 'ICAO': 'GQPA', 'Airport name': 'Atar International Airport', 'Location served': 'Atar, Mauritania'}
+{'IATA': 'ATS', 'ICAO': 'KATS', 'Airport name': 'Artesia Municipal Airport', 'Location served': 'Artesia, New Mexico, United States'}
+{'IATA': 'ATT', 'ICAO': '', 'Airport name': 'Atmautluak Airport (FAA: 4A2)', 'Location served': 'Atmautluak, Alaska, United States'}
+{'IATA': 'ATU', 'ICAO': 'PAAT', 'Airport name': 'Casco Cove Coast Guard Station', 'Location served': 'Attu Island, Alaska, United States'}
+{'IATA': 'ATV', 'ICAO': 'FTTI', 'Airport name': 'Ati Airport', 'Location served': 'Ati, Chad'}
+{'IATA': 'ATW', 'ICAO': 'KATW', 'Airport name': 'Appleton International Airport', 'Location served': 'Appleton, Wisconsin, United States'}
+{'IATA': 'ATX', 'ICAO': '', 'Airport name': 'Atbasar Airport', 'Location served': 'Atbasar, Kazakhstan'}
+{'IATA': 'ATY', 'ICAO': 'KATY', 'Airport name': 'Watertown Regional Airport', 'Location served': 'Watertown, South Dakota, United States'}
+{'IATA': 'ATZ', 'ICAO': 'HEAT', 'Airport name': 'Assiut Airport', 'Location served': 'Assiut, Egypt'}
+{'IATA': 'AUA', 'ICAO': 'TNCA', 'Airport name': 'Queen Beatrix International Airport', 'Location served': 'Aruba, Kingdom of the Netherlands'}
+{'IATA': 'AUC', 'ICAO': 'SKUC', 'Airport name': 'Santiago Pérez Quiroz Airport', 'Location served': 'Arauca, Colombia'}
+{'IATA': 'AUD', 'ICAO': 'YAGD', 'Airport name': 'Augustus Downs Airport', 'Location served': 'Augustus Downs Station, Queensland, Australia'}
+{'IATA': 'AUE', 'ICAO': '', 'Airport name': 'Abu Rudeis Airport', 'Location served': 'Abou Redis, Egypt'}
+{'IATA': 'AUF', 'ICAO': 'LFLA', 'Airport name': 'Auxerre – Branches Aerodrome', 'Location served': 'Auxerre, Burgundy, France'}
+{'IATA': 'AUG', 'ICAO': 'KAUG', 'Airport name': 'Augusta State Airport', 'Location served': 'Augusta, Maine, United States'}
+{'IATA': 'AUH', 'ICAO': 'OMAA', 'Airport name': 'Abu Dhabi International Airport', 'Location served': 'Abu Dhabi, United Arab Emirates'}
+{'IATA': 'AUI', 'ICAO': 'AYND', 'Airport name': 'Aua Island Airport', 'Location served': 'Aua Island, Papua New Guinea'}
+{'IATA': 'AUJ', 'ICAO': 'AYAT', 'Airport name': 'Ambunti Airport', 'Location served': 'Ambunti, Papua New Guinea'}
+{'IATA': 'AUK', 'ICAO': '', 'Airport name': 'Alakanuk Airport', 'Location served': 'Alakanuk, Alaska, United States'}
+{'IATA': 'AUL', 'ICAO': '', 'Airport name': 'Aur Airport', 'Location served': 'Aur Atoll, Marshall Islands'}
+{'IATA': 'AUM', 'ICAO': 'KAUM', 'Airport name': 'Austin Municipal Airport', 'Location served': 'Austin, Minnesota, United States'}
+{'IATA': 'AUN', 'ICAO': 'KAUN', 'Airport name': 'Auburn Municipal Airport', 'Location served': 'Auburn, California, United States'}
+{'IATA': 'AUO', 'ICAO': 'KAUO', 'Airport name': 'Auburn University Regional Airport', 'Location served': 'Auburn, Alabama, United States'}
+{'IATA': 'AUP', 'ICAO': 'AYAG', 'Airport name': 'Agaun Airport', 'Location served': 'Agaun, Papua New Guinea'}
+{'IATA': 'AUQ', 'ICAO': 'NTMN', 'Airport name': 'Atuona Airport', 'Location served': 'Atuona, Marquesas Islands, French Polynesia'}
+{'IATA': 'AUR', 'ICAO': 'LFLW', 'Airport name': 'Aurillac – Tronquières Airport', 'Location served': 'Aurillac, Auvergne, France'}
+{'IATA': 'AUS', 'ICAO': 'KAUS', 'Airport name': 'Austin–Bergstrom International Airport', 'Location served': 'Austin, Texas, United States'}
+{'IATA': 'AUT', 'ICAO': 'WPAT', 'Airport name': 'Atauro Airport', 'Location served': 'Atauro Island, East Timor'}
+{'IATA': 'AUU', 'ICAO': 'YAUR', 'Airport name': 'Aurukun Airport', 'Location served': 'Aurukun, Queensland, Australia'}
+{'IATA': 'AUV', 'ICAO': 'AYUM', 'Airport name': 'Aumo Airport', 'Location served': 'Aumo, Papua New Guinea'}
+{'IATA': 'AUW', 'ICAO': 'KAUW', 'Airport name': 'Wausau Downtown Airport', 'Location served': 'Wausau, Wisconsin, United States'}
+{'IATA': 'AUX', 'ICAO': 'SWGN', 'Airport name': 'Araguaína Airport', 'Location served': 'Araguaína, Tocantins, Brazil'}
+{'IATA': 'AUY', 'ICAO': 'NVVA', 'Airport name': 'Anatom Airport', 'Location served': 'Anatom Island, Tafea, Vanuatu'}
+{'IATA': 'AUZ', 'ICAO': 'KARR', 'Airport name': 'Aurora Municipal Airport (FAA: ARR)', 'Location served': 'Aurora, Illinois, United States'}
+{'IATA': 'AVA', 'ICAO': 'ZUAS', 'Airport name': 'Anshun Huangguoshu Airport', 'Location served': 'Anshun, Guizhou, China'}
+{'IATA': 'AVB', 'ICAO': 'LIPA', 'Airport name': 'Aviano Air Base', 'Location served': 'Aviano, Pordenone, Italy'}
+{'IATA': 'AVG', 'ICAO': 'YAUV', 'Airport name': 'Auvergne Airport', 'Location served': 'Auvergne Station, Northern Territory, Australia'}
+{'IATA': 'AVI', 'ICAO': 'MUCA', 'Airport name': 'Máximo Gómez Airport', 'Location served': 'Ciego de Ávila, Cuba'}
+{'IATA': 'AVK', 'ICAO': 'ZMAH', 'Airport name': 'Arvaikheer Airport', 'Location served': 'Arvaikheer, Mongolia'}
+{'IATA': 'AVL', 'ICAO': 'KAVL', 'Airport name': 'Asheville Regional Airport', 'Location served': 'Asheville, North Carolina, United States'}
+{'IATA': 'AVN', 'ICAO': 'LFMV', 'Airport name': 'Avignon – Provence Airport', 'Location served': "Avignon, Provence-Alpes-Côte d'Azur, France"}
+{'IATA': 'AVO', 'ICAO': 'KAVO', 'Airport name': 'Avon Park Executive Airport', 'Location served': 'Avon Park, Florida, United States'}
+{'IATA': 'AVP', 'ICAO': 'KAVP', 'Airport name': 'Wilkes-Barre/Scranton International Airport', 'Location served': 'Wilkes-Barre / Scranton, Pennsylvania, United States'}
+{'IATA': 'AVU', 'ICAO': 'AGGJ', 'Airport name': 'Avu Avu Airport', 'Location served': 'Avu Avu, Guadalcanal, Solomon Islands'}
+{'IATA': 'AVV', 'ICAO': 'YMAV', 'Airport name': 'Avalon Airport', 'Location served': 'Avalon, Victoria, Australia'}
+{'IATA': 'AVW', 'ICAO': 'KAVQ', 'Airport name': 'Marana Regional Airport (FAA: AVQ)', 'Location served': 'Tucson, Arizona, United States'}
+{'IATA': 'AVX', 'ICAO': 'KAVX', 'Airport name': 'Catalina Airport', 'Location served': 'Avalon, California, United States'}
+{'IATA': 'AWA', 'ICAO': 'HALA', 'Airport name': 'Awasa Airport', 'Location served': 'Awasa, Ethiopia'}
+{'IATA': 'AWB', 'ICAO': 'AYAW', 'Airport name': 'Awaba Airport', 'Location served': 'Awaba, Papua New Guinea'}
+{'IATA': 'AWD', 'ICAO': 'NVVB', 'Airport name': 'Aniwa Airport', 'Location served': 'Aniwa Island, Tafea, Vanuatu'}
+{'IATA': 'AWE', 'ICAO': '', 'Airport name': 'Alowe Airport', 'Location served': 'Alowe, Gabon'}
+{'IATA': 'AWK', 'ICAO': 'PWAK', 'Airport name': 'Wake Island Airfield', 'Location served': 'Wake Island, United States Minor Outlying Islands'}
+{'IATA': 'AWM', 'ICAO': 'KAWM', 'Airport name': 'West Memphis Municipal Airport', 'Location served': 'West Memphis, Arkansas, United States'}
+{'IATA': 'AWN', 'ICAO': '', 'Airport name': 'Alton Downs Airport', 'Location served': 'Alton Downs, South Australia, Australia'}
+{'IATA': 'AWP', 'ICAO': '', 'Airport name': 'Austral Downs Airport', 'Location served': 'Austral Downs, Northern Territory, Australia'}
+{'IATA': 'AWR', 'ICAO': '', 'Airport name': 'Awar Airport', 'Location served': 'Awar, Papua New Guinea'}
+{'IATA': 'AWZ', 'ICAO': 'OIAW', 'Airport name': 'Ahvaz International Airport', 'Location served': 'Ahvaz, Iran'}
+{'IATA': 'AXA', 'ICAO': 'TQPF', 'Airport name': 'Clayton J. Lloyd International Airport', 'Location served': 'The Valley, British Overseas Territory of Anguilla'}
+{'IATA': 'AXB', 'ICAO': '', 'Airport name': 'Maxson Airfield (FAA: 89N)', 'Location served': 'Alexandria Bay, New York, United States'}
+{'IATA': 'AXC', 'ICAO': 'YAMC', 'Airport name': 'Aramac Airport', 'Location served': 'Aramac, Queensland, Australia'}
+{'IATA': 'AXD', 'ICAO': 'LGAL', 'Airport name': 'Alexandroupoli Airport (Dimokritos Airport)', 'Location served': 'Alexandroupoli, Greece'}
+{'IATA': 'AXE', 'ICAO': '', 'Airport name': 'Xanxere Airport', 'Location served': 'Xanxerê, Santa Catarina, Brazil'}
+{'IATA': 'AXF', 'ICAO': '', 'Airport name': 'Alxa Left Banner Bayanhot Airport', 'Location served': 'Alxa Left Banner, Inner Mongolia, China'}
+{'IATA': 'AXG', 'ICAO': 'KAXA', 'Airport name': 'Algona Municipal Airport (FAA: AXA)', 'Location served': 'Algona, Iowa, United States'}
+{'IATA': 'AXJ', 'ICAO': 'RJDA', 'Airport name': 'Amakusa Airfield[1]', 'Location served': 'Amakusa, Amakusa Islands, Japan'}
+{'IATA': 'AXK', 'ICAO': 'OYAT', 'Airport name': 'Ataq Airport', 'Location served': 'Ataq, Yemen'}
+{'IATA': 'AXL', 'ICAO': '', 'Airport name': 'Alexandria Airport', 'Location served': 'Alexandria Station, Northern Territory, Australia'}
+{'IATA': 'AXM', 'ICAO': 'SKAR', 'Airport name': 'El Edén International Airport', 'Location served': 'Armenia, Colombia'}
+{'IATA': 'AXN', 'ICAO': 'KAXN', 'Airport name': 'Alexandria Municipal Airport (Chandler Field)', 'Location served': 'Alexandria, Minnesota, United States'}
+{'IATA': 'AXP', 'ICAO': 'MYAP', 'Airport name': 'Spring Point Airport', 'Location served': 'Spring Point, Acklins Island, Bahamas'}
+{'IATA': 'AXR', 'ICAO': 'NTGU', 'Airport name': 'Arutua Airport', 'Location served': 'Arutua, Tuamotus, French Polynesia'}
+{'IATA': 'AXS', 'ICAO': 'KAXS', 'Airport name': 'Altus/Quartz Mountain Regional Airport', 'Location served': 'Altus, Oklahoma, United States'}
+{'IATA': 'AXT', 'ICAO': 'RJSK', 'Airport name': 'Akita Airport', 'Location served': 'Akita, Honshu, Japan'}
+{'IATA': 'AXU', 'ICAO': 'HAAX', 'Airport name': 'Axum Airport', 'Location served': 'Axum, Ethiopia'}
+{'IATA': 'AXV', 'ICAO': 'KAXV', 'Airport name': 'Neil Armstrong Airport', 'Location served': 'Wapakoneta, Ohio, United States'}
+{'IATA': 'AXX', 'ICAO': 'KAXX', 'Airport name': 'Angel Fire Airport', 'Location served': 'Angel Fire, New Mexico, United States'}
+{'IATA': 'AYA', 'ICAO': '', 'Airport name': 'Ayapel Airport', 'Location served': 'Ayapel, Colombia'}
+{'IATA': 'AYC', 'ICAO': '', 'Airport name': 'Ayacucho Airport', 'Location served': 'Ayacucho, Colombia'}
+{'IATA': 'AYD', 'ICAO': '', 'Airport name': 'Alroy Downs Airport', 'Location served': 'Alroy Downs, Northern Territory, Australia'}
+{'IATA': 'AYG', 'ICAO': 'SKYA', 'Airport name': 'Yaguara Airport', 'Location served': 'Yaguara, Colombia'}
+{'IATA': 'AYI', 'ICAO': '', 'Airport name': 'Yari Airport', 'Location served': 'Yari, Colombia'}
+{'IATA': 'AYK', 'ICAO': 'UAUR', 'Airport name': 'Arkalyk Airport', 'Location served': 'Arkalyk, Kazakhstan'}
+{'IATA': 'AYL', 'ICAO': '', 'Airport name': 'Anthony Lagoon Airport', 'Location served': 'Anthony Lagoon, Northern Territory, Australia'}
+{'IATA': 'AYM', 'ICAO': '', 'Airport name': 'Yas Island Seaplane Base[1]', 'Location served': 'Yas Island, Abu Dhabi, United Arab Emirates'}
+{'IATA': 'AYN', 'ICAO': 'ZHAY', 'Airport name': 'Anyang Airport', 'Location served': 'Anyang, Henan, China'}
+{'IATA': 'AYO', 'ICAO': 'SGAY', 'Airport name': 'Juan de Ayolas Airport', 'Location served': 'Ayolas, Paraguay'}
+{'IATA': 'AYP', 'ICAO': 'SPHO', 'Airport name': 'Coronel FAP Alfredo Mendívil Duarte Airport', 'Location served': 'Ayacucho, Peru'}
+{'IATA': 'AYQ', 'ICAO': 'YAYE', 'Airport name': 'Ayers Rock Airport', 'Location served': 'Yulara, Northern Territory, Australia'}
+{'IATA': 'AYR', 'ICAO': 'YAYR', 'Airport name': 'Ayr Airport', 'Location served': 'Ayr, Queensland, Australia'}
+{'IATA': 'AYS', 'ICAO': 'KAYS', 'Airport name': 'Waycross–Ware County Airport', 'Location served': 'Waycross, Georgia, United States'}
+{'IATA': 'AYT', 'ICAO': 'LTAI', 'Airport name': 'Antalya Airport', 'Location served': 'Antalya, Turkey'}
+{'IATA': 'AYU', 'ICAO': 'AYAY', 'Airport name': 'Aiyura Airport', 'Location served': 'Aiyura, Papua New Guinea'}
+{'IATA': 'AYW', 'ICAO': 'WASA', 'Airport name': 'Ayawasi Airport', 'Location served': 'Ayawasi, West Papua, Indonesia'}
+{'IATA': 'AYX', 'ICAO': 'SPAY', 'Airport name': 'Tnte. Gral. Gerardo Pérez Pinedo Airport', 'Location served': 'Atalaya Province, Department of Ucayali, Peru'}
+{'IATA': 'AYY', 'ICAO': '', 'Airport name': 'Arugam Bay Seaplane Base[1]', 'Location served': 'Pottuvil, Sri Lanka'}
+{'IATA': 'AZA', 'ICAO': 'KIWA', 'Airport name': 'Phoenix–Mesa Gateway Airport (FAA: IWA)', 'Location served': 'Phoenix, Arizona, United States'}
+{'IATA': 'AZB', 'ICAO': '', 'Airport name': 'Amazon Bay Airport', 'Location served': 'Amazon Bay, Papua New Guinea'}
+{'IATA': 'AZD', 'ICAO': 'OIYY', 'Airport name': 'Shahid Sadooghi Airport', 'Location served': 'Yazd, Iran'}
+{'IATA': 'AZG', 'ICAO': '', 'Airport name': 'Pablo L. Sidar Airport', 'Location served': 'Apatzingán, Michoacán, Mexico'}
+{'IATA': 'AZI', 'ICAO': 'OMAD', 'Airport name': 'Al Bateen Executive Airport', 'Location served': 'Abu Dhabi, United Arab Emirates'}
+{'IATA': 'AZL', 'ICAO': 'SWTU[4]', 'Airport name': 'Fazenda Tucunaré Airport[1]', 'Location served': 'Sapezal, Mato Grosso, Brazil'}
+{'IATA': 'AZN', 'ICAO': 'UTFA', 'Airport name': 'Andizhan Airport', 'Location served': 'Andizhan, Uzbekistan'}
+{'IATA': 'AZO', 'ICAO': 'KAZO', 'Airport name': 'Kalamazoo/Battle Creek International Airport', 'Location served': 'Kalamazoo, Michigan, United States'}
+{'IATA': 'AZP', 'ICAO': 'MMJC', 'Airport name': 'Jorge Jiménez Cantú National Airport', 'Location served': 'Ciudad López Mateos, State of Mexico, Mexico'}
+{'IATA': 'AZR', 'ICAO': 'DAUA', 'Airport name': 'Touat-Cheikh Sidi Mohamed Belkebir Airport', 'Location served': 'Adrar, Algeria'}
+{'IATA': 'AZS', 'ICAO': 'MDCY', 'Airport name': 'Samaná El Catey International Airport', 'Location served': 'El Catey, Dominican Republic'}
+{'IATA': 'AZT', 'ICAO': '', 'Airport name': 'Zapatoca Airport', 'Location served': 'Zapatoca, Colombia'}
+{'IATA': 'AZZ', 'ICAO': 'FNAM', 'Airport name': 'Ambriz Airport', 'Location served': 'Ambriz, Angola'}
